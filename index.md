@@ -4,7 +4,7 @@ WPR Mailer é um plugin de código fechado para Wordpress que permite o envio de
 
 A Política de Privacidade pode ser encontrada [aqui](https://weltertech.github.io/WPRMailer/privacy).
 
-Os Termos de Uso podem ser encontrados [aqui](https://weltertech.github.io/WPRMailer/privacy).
+Os Termos de Uso podem ser encontrados [aqui](https://weltertech.github.io/WPRMailer/terms).
 
 A forma do uso de dados pode ser encontrada [aqui](https://weltertech.github.io/WPRMailer/use).
 
